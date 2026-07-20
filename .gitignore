@@ -1,0 +1,30 @@
+# IDE-local metadata
+.vs/
+**/.vs/
+*.workspace
+*.RUN
+
+# Keil C51 build output
+keil_c/Objects/
+keil_c/Listings/
+*.obj
+*.lst
+*.m51
+*.lnp
+*.build_log.htm
+
+# Proteus backups
+*.pdsbak
+Backup Of *.pdsprj
+
+# Windows/Office temporary files
+Thumbs.db
+desktop.ini
+~$*
+
+# Private course-submission material (names, student IDs, signatures, or photos)
+/3-课设过程管理记录单.*
+/4-课设验收记录单.*
+/5-报告*
+/微机接口课设_实时钟_设计报告.*
+/*.jpg

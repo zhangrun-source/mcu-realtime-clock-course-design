@@ -1,0 +1,740 @@
+<?xml version='1.0' encoding='utf-8'?>
+<VisioDocument xmlns='http://schemas.microsoft.com/visio/2003/core'>
+<DocumentProperties><Title>80C31 实时钟系统硬件模块连接框图</Title></DocumentProperties>
+<Pages>
+<Page ID='0' NameU='Page-1' Name='硬件连接框图' ViewScale='1' ViewCenterX='7.5' ViewCenterY='5'>
+<PageSheet><PageProps><PageWidth Unit='IN'>15</PageWidth><PageHeight Unit='IN'>10</PageHeight><PageScale Unit='IN'>1</PageScale><DrawingScale Unit='IN'>1</DrawingScale></PageProps></PageSheet>
+<Shapes>
+<Shape ID='1' Type='Shape'>
+<XForm><PinX>1.6500</PinX><PinY>5.6500</PinY><Width>1.9000</Width><Height>2.7000</Height><LocPinX>0.9500</LocPinX><LocPinY>1.3500</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillForegnd>#FFFFFF</FillForegnd><FillPattern>1</FillPattern></Fill>
+<Line><LineWeight>0.02</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><Rounding>0.08</Rounding></Line>
+<Geom IX='0'><MoveTo IX='1'><X>0</X><Y>0</Y></MoveTo><LineTo IX='2'><X>1.9000</X><Y>0</Y></LineTo><LineTo IX='3'><X>1.9000</X><Y>2.7000</Y></LineTo><LineTo IX='4'><X>0</X><Y>2.7000</Y></LineTo><LineTo IX='5'><X>0</X><Y>0</Y></LineTo></Geom>
+</Shape>
+<Shape ID='2' Type='Shape'>
+<XForm><PinX>5.3500</PinX><PinY>5.8000</PinY><Width>2.1000</Width><Height>5.2000</Height><LocPinX>1.0500</LocPinX><LocPinY>2.6000</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillForegnd>#FFFFFF</FillForegnd><FillPattern>1</FillPattern></Fill>
+<Line><LineWeight>0.02</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><Rounding>0.08</Rounding></Line>
+<Geom IX='0'><MoveTo IX='1'><X>0</X><Y>0</Y></MoveTo><LineTo IX='2'><X>2.1000</X><Y>0</Y></LineTo><LineTo IX='3'><X>2.1000</X><Y>5.2000</Y></LineTo><LineTo IX='4'><X>0</X><Y>5.2000</Y></LineTo><LineTo IX='5'><X>0</X><Y>0</Y></LineTo></Geom>
+</Shape>
+<Shape ID='3' Type='Shape'>
+<XForm><PinX>9.3500</PinX><PinY>7.0500</PinY><Width>1.9000</Width><Height>2.9000</Height><LocPinX>0.9500</LocPinX><LocPinY>1.4500</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillForegnd>#FFFFFF</FillForegnd><FillPattern>1</FillPattern></Fill>
+<Line><LineWeight>0.02</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><Rounding>0.08</Rounding></Line>
+<Geom IX='0'><MoveTo IX='1'><X>0</X><Y>0</Y></MoveTo><LineTo IX='2'><X>1.9000</X><Y>0</Y></LineTo><LineTo IX='3'><X>1.9000</X><Y>2.9000</Y></LineTo><LineTo IX='4'><X>0</X><Y>2.9000</Y></LineTo><LineTo IX='5'><X>0</X><Y>0</Y></LineTo></Geom>
+</Shape>
+<Shape ID='4' Type='Shape'>
+<XForm><PinX>13.1500</PinX><PinY>7.0500</PinY><Width>2.3000</Width><Height>2.7000</Height><LocPinX>1.1500</LocPinX><LocPinY>1.3500</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillForegnd>#FFFFFF</FillForegnd><FillPattern>1</FillPattern></Fill>
+<Line><LineWeight>0.02</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><Rounding>0.08</Rounding></Line>
+<Geom IX='0'><MoveTo IX='1'><X>0</X><Y>0</Y></MoveTo><LineTo IX='2'><X>2.3000</X><Y>0</Y></LineTo><LineTo IX='3'><X>2.3000</X><Y>2.7000</Y></LineTo><LineTo IX='4'><X>0</X><Y>2.7000</Y></LineTo><LineTo IX='5'><X>0</X><Y>0</Y></LineTo></Geom>
+</Shape>
+<Shape ID='5' Type='Shape'>
+<XForm><PinX>8.5500</PinX><PinY>3.9500</PinY><Width>1.7000</Width><Height>1.7000</Height><LocPinX>0.8500</LocPinX><LocPinY>0.8500</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillForegnd>#FFFFFF</FillForegnd><FillPattern>1</FillPattern></Fill>
+<Line><LineWeight>0.02</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><Rounding>0.08</Rounding></Line>
+<Geom IX='0'><MoveTo IX='1'><X>0</X><Y>0</Y></MoveTo><LineTo IX='2'><X>1.7000</X><Y>0</Y></LineTo><LineTo IX='3'><X>1.7000</X><Y>1.7000</Y></LineTo><LineTo IX='4'><X>0</X><Y>1.7000</Y></LineTo><LineTo IX='5'><X>0</X><Y>0</Y></LineTo></Geom>
+</Shape>
+<Shape ID='6' Type='Shape'>
+<XForm><PinX>11.0000</PinX><PinY>2.0000</PinY><Width>1.8000</Width><Height>1.6000</Height><LocPinX>0.9000</LocPinX><LocPinY>0.8000</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillForegnd>#FFFFFF</FillForegnd><FillPattern>1</FillPattern></Fill>
+<Line><LineWeight>0.02</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><Rounding>0.08</Rounding></Line>
+<Geom IX='0'><MoveTo IX='1'><X>0</X><Y>0</Y></MoveTo><LineTo IX='2'><X>1.8000</X><Y>0</Y></LineTo><LineTo IX='3'><X>1.8000</X><Y>1.6000</Y></LineTo><LineTo IX='4'><X>0</X><Y>1.6000</Y></LineTo><LineTo IX='5'><X>0</X><Y>0</Y></LineTo></Geom>
+</Shape>
+<Shape ID='7' Type='Shape'>
+<XForm><PinX>10.0000</PinX><PinY>3.8500</PinY><Width>0.1600</Width><Height>0.1400</Height><LocPinX>0.0800</LocPinX><LocPinY>0.0700</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillForegnd>#FFFFFF</FillForegnd><FillPattern>1</FillPattern></Fill>
+<Line><LineWeight>0.014</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern></Line>
+<Geom IX='0'><MoveTo IX='1'><X>0</X><Y>0</Y></MoveTo><LineTo IX='2'><X>0.1600</X><Y>0</Y></LineTo><LineTo IX='3'><X>0.1600</X><Y>0.1400</Y></LineTo><LineTo IX='4'><X>0</X><Y>0.1400</Y></LineTo><LineTo IX='5'><X>0</X><Y>0</Y></LineTo></Geom>
+</Shape>
+<Shape ID='8' Type='Shape'>
+<XForm><PinX>9.5500</PinX><PinY>2.4900</PinY><Width>0.1400</Width><Height>0.2800</Height><LocPinX>0.0700</LocPinX><LocPinY>0.1400</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillForegnd>#FFFFFF</FillForegnd><FillPattern>1</FillPattern></Fill>
+<Line><LineWeight>0.014</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern></Line>
+<Geom IX='0'><MoveTo IX='1'><X>0</X><Y>0</Y></MoveTo><LineTo IX='2'><X>0.1400</X><Y>0</Y></LineTo><LineTo IX='3'><X>0.1400</X><Y>0.2800</Y></LineTo><LineTo IX='4'><X>0</X><Y>0.2800</Y></LineTo><LineTo IX='5'><X>0</X><Y>0</Y></LineTo></Geom>
+</Shape>
+<Shape ID='9' Type='Shape'>
+<XForm><PinX>9.8500</PinX><PinY>2.4900</PinY><Width>0.1400</Width><Height>0.2800</Height><LocPinX>0.0700</LocPinX><LocPinY>0.1400</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillForegnd>#FFFFFF</FillForegnd><FillPattern>1</FillPattern></Fill>
+<Line><LineWeight>0.014</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern></Line>
+<Geom IX='0'><MoveTo IX='1'><X>0</X><Y>0</Y></MoveTo><LineTo IX='2'><X>0.1400</X><Y>0</Y></LineTo><LineTo IX='3'><X>0.1400</X><Y>0.2800</Y></LineTo><LineTo IX='4'><X>0</X><Y>0.2800</Y></LineTo><LineTo IX='5'><X>0</X><Y>0</Y></LineTo></Geom>
+</Shape>
+<Shape ID='10' Type='Shape'>
+<XForm><PinX>2.6000</PinX><PinY>6.4000</PinY><Width>1.7000</Width><Height>0.0100</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>4</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.0000</Y></MoveTo><LineTo IX='2'><X>1.7000</X><Y>0.0000</Y></LineTo></Geom>
+</Shape>
+<Shape ID='11' Type='Shape'>
+<XForm><PinX>2.6000</PinX><PinY>5.8500</PinY><Width>1.7000</Width><Height>0.0100</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>4</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.0000</Y></MoveTo><LineTo IX='2'><X>1.7000</X><Y>0.0000</Y></LineTo></Geom>
+</Shape>
+<Shape ID='12' Type='Shape'>
+<XForm><PinX>2.6000</PinX><PinY>5.3000</PinY><Width>1.7000</Width><Height>0.0100</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>4</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.0000</Y></MoveTo><LineTo IX='2'><X>1.7000</X><Y>0.0000</Y></LineTo></Geom>
+</Shape>
+<Shape ID='13' Type='Shape'>
+<XForm><PinX>2.6000</PinX><PinY>4.7500</PinY><Width>1.7000</Width><Height>0.0100</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>4</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.0000</Y></MoveTo><LineTo IX='2'><X>1.7000</X><Y>0.0000</Y></LineTo></Geom>
+</Shape>
+<Shape ID='14' Type='Shape'>
+<XForm><PinX>6.4000</PinX><PinY>7.8500</PinY><Width>2.0000</Width><Height>0.0100</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.032</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>4</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>4</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.0000</Y></MoveTo><LineTo IX='2'><X>2.0000</X><Y>0.0000</Y></LineTo></Geom>
+</Shape>
+<Shape ID='15' Type='Shape'>
+<XForm><PinX>6.4000</PinX><PinY>7.4500</PinY><Width>2.0000</Width><Height>0.0100</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>4</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.0000</Y></MoveTo><LineTo IX='2'><X>2.0000</X><Y>0.0000</Y></LineTo></Geom>
+</Shape>
+<Shape ID='16' Type='Shape'>
+<XForm><PinX>6.4000</PinX><PinY>7.1000</PinY><Width>2.0000</Width><Height>0.0100</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>4</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.0000</Y></MoveTo><LineTo IX='2'><X>2.0000</X><Y>0.0000</Y></LineTo></Geom>
+</Shape>
+<Shape ID='17' Type='Shape'>
+<XForm><PinX>6.4000</PinX><PinY>6.7500</PinY><Width>2.0000</Width><Height>0.0100</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>4</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.0000</Y></MoveTo><LineTo IX='2'><X>2.0000</X><Y>0.0000</Y></LineTo></Geom>
+</Shape>
+<Shape ID='18' Type='Shape'>
+<XForm><PinX>6.4000</PinX><PinY>6.4000</PinY><Width>2.0000</Width><Height>0.0100</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>4</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.0000</Y></MoveTo><LineTo IX='2'><X>2.0000</X><Y>0.0000</Y></LineTo></Geom>
+</Shape>
+<Shape ID='19' Type='Shape'>
+<XForm><PinX>6.4000</PinX><PinY>6.0500</PinY><Width>2.0000</Width><Height>0.0100</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>4</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.0000</Y></MoveTo><LineTo IX='2'><X>2.0000</X><Y>0.0000</Y></LineTo></Geom>
+</Shape>
+<Shape ID='20' Type='Shape'>
+<XForm><PinX>10.3000</PinX><PinY>7.5500</PinY><Width>1.7000</Width><Height>0.0100</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.032</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>4</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.0000</Y></MoveTo><LineTo IX='2'><X>1.7000</X><Y>0.0000</Y></LineTo></Geom>
+</Shape>
+<Shape ID='21' Type='Shape'>
+<XForm><PinX>10.3000</PinX><PinY>7.0000</PinY><Width>1.7000</Width><Height>0.0100</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>4</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.0000</Y></MoveTo><LineTo IX='2'><X>1.7000</X><Y>0.0000</Y></LineTo></Geom>
+</Shape>
+<Shape ID='22' Type='Shape'>
+<XForm><PinX>10.3000</PinX><PinY>6.6500</PinY><Width>1.7000</Width><Height>0.0100</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>4</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.0000</Y></MoveTo><LineTo IX='2'><X>1.7000</X><Y>0.0000</Y></LineTo></Geom>
+</Shape>
+<Shape ID='23' Type='Shape'>
+<XForm><PinX>11.7000</PinX><PinY>6.0000</PinY><Width>0.3000</Width><Height>0.2000</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>0</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.3000</X><Y>0.2000</Y></MoveTo><LineTo IX='2'><X>0.0000</X><Y>0.2000</Y></LineTo><LineTo IX='3'><X>0.0000</X><Y>0.0000</Y></LineTo></Geom>
+</Shape>
+<Shape ID='24' Type='Shape'>
+<XForm><PinX>6.4000</PinX><PinY>4.1000</PinY><Width>1.3000</Width><Height>0.0100</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>4</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>4</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.0000</Y></MoveTo><LineTo IX='2'><X>1.3000</X><Y>0.0000</Y></LineTo></Geom>
+</Shape>
+<Shape ID='25' Type='Shape'>
+<XForm><PinX>6.4000</PinX><PinY>3.7500</PinY><Width>1.3000</Width><Height>0.0100</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>4</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.0000</Y></MoveTo><LineTo IX='2'><X>1.3000</X><Y>0.0000</Y></LineTo></Geom>
+</Shape>
+<Shape ID='26' Type='Shape'>
+<XForm><PinX>6.4000</PinX><PinY>3.4000</PinY><Width>1.3000</Width><Height>0.0100</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>4</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.0000</Y></MoveTo><LineTo IX='2'><X>1.3000</X><Y>0.0000</Y></LineTo></Geom>
+</Shape>
+<Shape ID='27' Type='Shape'>
+<XForm><PinX>9.4000</PinX><PinY>3.9600</PinY><Width>0.6000</Width><Height>0.2400</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>0</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.2400</Y></MoveTo><LineTo IX='2'><X>0.6000</X><Y>0.2400</Y></LineTo><LineTo IX='3'><X>0.6000</X><Y>0.0000</Y></LineTo></Geom>
+</Shape>
+<Shape ID='28' Type='Shape'>
+<XForm><PinX>9.8800</PinX><PinY>3.9600</PinY><Width>0.2400</Width><Height>0.0100</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>0</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.0000</Y></MoveTo><LineTo IX='2'><X>0.2400</X><Y>0.0000</Y></LineTo></Geom>
+</Shape>
+<Shape ID='29' Type='Shape'>
+<XForm><PinX>9.8800</PinX><PinY>3.7400</PinY><Width>0.2400</Width><Height>0.0100</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>0</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.0000</Y></MoveTo><LineTo IX='2'><X>0.2400</X><Y>0.0000</Y></LineTo></Geom>
+</Shape>
+<Shape ID='30' Type='Shape'>
+<XForm><PinX>9.4000</PinX><PinY>3.5000</PinY><Width>0.6000</Width><Height>0.2400</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>0</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.6000</X><Y>0.2400</Y></MoveTo><LineTo IX='2'><X>0.6000</X><Y>0.0000</Y></LineTo><LineTo IX='3'><X>0.0000</X><Y>0.0000</Y></LineTo></Geom>
+</Shape>
+<Shape ID='31' Type='Shape'>
+<XForm><PinX>5.2000</PinX><PinY>2.1000</PinY><Width>4.9000</Width><Height>1.1000</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>4</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>1.1000</Y></MoveTo><LineTo IX='2'><X>0.0000</X><Y>0.0000</Y></LineTo><LineTo IX='3'><X>4.9000</X><Y>0.0000</Y></LineTo></Geom>
+</Shape>
+<Shape ID='32' Type='Shape'>
+<XForm><PinX>5.8500</PinX><PinY>1.7500</PinY><Width>4.2500</Width><Height>1.4500</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>4</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>4</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>1.4500</Y></MoveTo><LineTo IX='2'><X>0.0000</X><Y>0.0000</Y></LineTo><LineTo IX='3'><X>4.2500</X><Y>0.0000</Y></LineTo></Geom>
+</Shape>
+<Shape ID='33' Type='Shape'>
+<XForm><PinX>9.5500</PinX><PinY>2.1000</PinY><Width>0.0100</Width><Height>0.2500</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>0</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.0000</Y></MoveTo><LineTo IX='2'><X>0.0000</X><Y>0.2500</Y></LineTo></Geom>
+</Shape>
+<Shape ID='34' Type='Shape'>
+<XForm><PinX>9.5500</PinX><PinY>2.6300</PinY><Width>0.0100</Width><Height>0.1300</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>0</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.0000</Y></MoveTo><LineTo IX='2'><X>0.0000</X><Y>0.1300</Y></LineTo></Geom>
+</Shape>
+<Shape ID='35' Type='Shape'>
+<XForm><PinX>9.8500</PinX><PinY>1.7500</PinY><Width>0.0100</Width><Height>0.6000</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>0</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.0000</Y></MoveTo><LineTo IX='2'><X>0.0000</X><Y>0.6000</Y></LineTo></Geom>
+</Shape>
+<Shape ID='36' Type='Shape'>
+<XForm><PinX>9.8500</PinX><PinY>2.6300</PinY><Width>0.0100</Width><Height>0.1300</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>0</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.0000</Y></MoveTo><LineTo IX='2'><X>0.0000</X><Y>0.1300</Y></LineTo></Geom>
+</Shape>
+<Shape ID='37' Type='Shape'>
+<XForm><PinX>9.4500</PinX><PinY>2.7600</PinY><Width>0.5000</Width><Height>0.0100</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>0</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.0000</Y></MoveTo><LineTo IX='2'><X>0.5000</X><Y>0.0000</Y></LineTo></Geom>
+</Shape>
+<Shape ID='38' Type='Shape'>
+<XForm><PinX>11.9000</PinX><PinY>1.8500</PinY><Width>0.4000</Width><Height>0.0100</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>0</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.0000</Y></MoveTo><LineTo IX='2'><X>0.4000</X><Y>0.0000</Y></LineTo></Geom>
+</Shape>
+<Shape ID='39' Type='Shape'>
+<XForm><PinX>8.0600</PinX><PinY>7.7700</PinY><Width>0.1200</Width><Height>0.1600</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>0</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.0000</Y></MoveTo><LineTo IX='2'><X>0.1200</X><Y>0.1600</Y></LineTo></Geom>
+</Shape>
+<Shape ID='40' Type='Shape'>
+<XForm><PinX>11.6400</PinX><PinY>7.4700</PinY><Width>0.1200</Width><Height>0.1600</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>0</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.0000</Y></MoveTo><LineTo IX='2'><X>0.1200</X><Y>0.1600</Y></LineTo></Geom>
+</Shape>
+<Shape ID='41' Type='Shape'>
+<XForm><PinX>11.7000</PinX><PinY>5.9000</PinY><Width>0.0100</Width><Height>0.1000</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>0</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.1000</Y></MoveTo><LineTo IX='2'><X>0.0000</X><Y>0.0000</Y></LineTo></Geom>
+</Shape>
+<Shape ID='42' Type='Shape'>
+<XForm><PinX>11.5800</PinX><PinY>5.9000</PinY><Width>0.2400</Width><Height>0.0100</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>0</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.0000</Y></MoveTo><LineTo IX='2'><X>0.2400</X><Y>0.0000</Y></LineTo></Geom>
+</Shape>
+<Shape ID='43' Type='Shape'>
+<XForm><PinX>11.6200</PinX><PinY>5.8500</PinY><Width>0.1600</Width><Height>0.0100</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>0</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.0000</Y></MoveTo><LineTo IX='2'><X>0.1600</X><Y>0.0000</Y></LineTo></Geom>
+</Shape>
+<Shape ID='44' Type='Shape'>
+<XForm><PinX>11.6600</PinX><PinY>5.8000</PinY><Width>0.0800</Width><Height>0.0100</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>0</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.0000</Y></MoveTo><LineTo IX='2'><X>0.0800</X><Y>0.0000</Y></LineTo></Geom>
+</Shape>
+<Shape ID='45' Type='Shape'>
+<XForm><PinX>12.3000</PinX><PinY>1.7500</PinY><Width>0.0100</Width><Height>0.1000</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>0</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.1000</Y></MoveTo><LineTo IX='2'><X>0.0000</X><Y>0.0000</Y></LineTo></Geom>
+</Shape>
+<Shape ID='46' Type='Shape'>
+<XForm><PinX>12.1800</PinX><PinY>1.7500</PinY><Width>0.2400</Width><Height>0.0100</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>0</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.0000</Y></MoveTo><LineTo IX='2'><X>0.2400</X><Y>0.0000</Y></LineTo></Geom>
+</Shape>
+<Shape ID='47' Type='Shape'>
+<XForm><PinX>12.2200</PinX><PinY>1.7000</PinY><Width>0.1600</Width><Height>0.0100</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>0</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.0000</Y></MoveTo><LineTo IX='2'><X>0.1600</X><Y>0.0000</Y></LineTo></Geom>
+</Shape>
+<Shape ID='48' Type='Shape'>
+<XForm><PinX>12.2600</PinX><PinY>1.6500</PinY><Width>0.0800</Width><Height>0.0100</Height><LocPinX>0</LocPinX><LocPinY>0</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LineWeight>0.016</LineWeight><LineColor>#111111</LineColor><LinePattern>1</LinePattern><BeginArrow>0</BeginArrow><BeginArrowSize>1</BeginArrowSize><EndArrow>0</EndArrow><EndArrowSize>1</EndArrowSize></Line>
+<Geom IX='0'><NoFill>1</NoFill><MoveTo IX='1'><X>0.0000</X><Y>0.0000</Y></MoveTo><LineTo IX='2'><X>0.0800</X><Y>0.0000</Y></LineTo></Geom>
+</Shape>
+<Shape ID='49' Type='Shape'>
+<XForm><PinX>7.5000</PinX><PinY>9.4910</PinY><Width>4.2848</Width><Height>0.3900</Height><LocPinX>2.1424</LocPinX><LocPinY>0.1950</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.2600</Size><Style>1</Style><Color>#111111</Color></Char>
+<Text>80C31 实时钟系统硬件模块连接框图</Text>
+</Shape>
+<Shape ID='50' Type='Shape'>
+<XForm><PinX>1.6500</PinX><PinY>6.7360</PinY><Width>0.3200</Width><Height>0.2400</Height><LocPinX>0.1600</LocPinX><LocPinY>0.1200</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1600</Size><Style>1</Style><Color>#111111</Color></Char>
+<Text>按键</Text>
+</Shape>
+<Shape ID='51' Type='Shape'>
+<XForm><PinX>2.3700</PinX><PinY>6.4055</PinY><Width>0.3000</Width><Height>0.1950</Height><LocPinX>0.1500</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>清除</Text>
+</Shape>
+<Shape ID='52' Type='Shape'>
+<XForm><PinX>2.3700</PinX><PinY>5.8555</PinY><Width>0.3000</Width><Height>0.1950</Height><LocPinX>0.1500</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>启停</Text>
+</Shape>
+<Shape ID='53' Type='Shape'>
+<XForm><PinX>2.3700</PinX><PinY>5.3055</PinY><Width>0.3000</Width><Height>0.1950</Height><LocPinX>0.1500</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>换挡</Text>
+</Shape>
+<Shape ID='54' Type='Shape'>
+<XForm><PinX>2.3700</PinX><PinY>4.7555</PinY><Width>0.3000</Width><Height>0.1950</Height><LocPinX>0.1500</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>加数</Text>
+</Shape>
+<Shape ID='55' Type='Shape'>
+<XForm><PinX>1.6500</PinX><PinY>4.1020</PinY><Width>0.9984</Width><Height>0.1800</Height><LocPinX>0.4992</LocPinX><LocPinY>0.0900</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1200</Size><Style>0</Style><Color>#555555</Color></Char>
+<Text>各键另一端接 GND</Text>
+</Shape>
+<Shape ID='56' Type='Shape'>
+<XForm><PinX>5.3500</PinX><PinY>8.1500</PinY><Width>0.5800</Width><Height>0.3000</Height><LocPinX>0.2900</LocPinX><LocPinY>0.1500</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.2000</Size><Style>1</Style><Color>#111111</Color></Char>
+<Text>80C31</Text>
+</Shape>
+<Shape ID='57' Type='Shape'>
+<XForm><PinX>5.3500</PinX><PinY>7.8820</PinY><Width>0.3600</Width><Height>0.1800</Height><LocPinX>0.1800</LocPinX><LocPinY>0.0900</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1200</Size><Style>0</Style><Color>#555555</Color></Char>
+<Text>单片机</Text>
+</Shape>
+<Shape ID='58' Type='Shape'>
+<XForm><PinX>5.3500</PinX><PinY>5.5985</PinY><Width>1.1814</Width><Height>0.1650</Height><LocPinX>0.5907</LocPinX><LocPinY>0.0825</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1100</Size><Style>0</Style><Color>#555555</Color></Char>
+<Text>(时钟/复位电路未画出)</Text>
+</Shape>
+<Shape ID='59' Type='Shape'>
+<XForm><PinX>4.5308</PinX><PinY>6.4055</PinY><Width>0.3016</Width><Height>0.1950</Height><LocPinX>0.1508</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>P3.2</Text>
+</Shape>
+<Shape ID='60' Type='Shape'>
+<XForm><PinX>4.5308</PinX><PinY>5.8555</PinY><Width>0.3016</Width><Height>0.1950</Height><LocPinX>0.1508</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>P3.3</Text>
+</Shape>
+<Shape ID='61' Type='Shape'>
+<XForm><PinX>4.5308</PinX><PinY>5.3055</PinY><Width>0.3016</Width><Height>0.1950</Height><LocPinX>0.1508</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>P3.4</Text>
+</Shape>
+<Shape ID='62' Type='Shape'>
+<XForm><PinX>4.5308</PinX><PinY>4.7555</PinY><Width>0.3016</Width><Height>0.1950</Height><LocPinX>0.1508</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>P3.5</Text>
+</Shape>
+<Shape ID='63' Type='Shape'>
+<XForm><PinX>5.9807</PinX><PinY>7.8555</PinY><Width>0.6786</Width><Height>0.1950</Height><LocPinX>0.3393</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>P0.0~P0.7</Text>
+</Shape>
+<Shape ID='64' Type='Shape'>
+<XForm><PinX>6.1692</PinX><PinY>7.4555</PinY><Width>0.3016</Width><Height>0.1950</Height><LocPinX>0.1508</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>P2.0</Text>
+</Shape>
+<Shape ID='65' Type='Shape'>
+<XForm><PinX>6.1692</PinX><PinY>7.1055</PinY><Width>0.3016</Width><Height>0.1950</Height><LocPinX>0.1508</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>P2.1</Text>
+</Shape>
+<Shape ID='66' Type='Shape'>
+<XForm><PinX>6.1692</PinX><PinY>6.7555</PinY><Width>0.3016</Width><Height>0.1950</Height><LocPinX>0.1508</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>P2.7</Text>
+</Shape>
+<Shape ID='67' Type='Shape'>
+<XForm><PinX>5.9807</PinX><PinY>6.4055</PinY><Width>0.6786</Width><Height>0.1950</Height><LocPinX>0.3393</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>P3.6(/WR)</Text>
+</Shape>
+<Shape ID='68' Type='Shape'>
+<XForm><PinX>5.9807</PinX><PinY>6.0555</PinY><Width>0.6786</Width><Height>0.1950</Height><LocPinX>0.3393</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>P3.7(/RD)</Text>
+</Shape>
+<Shape ID='69' Type='Shape'>
+<XForm><PinX>6.1692</PinX><PinY>4.1055</PinY><Width>0.3016</Width><Height>0.1950</Height><LocPinX>0.1508</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>P1.0</Text>
+</Shape>
+<Shape ID='70' Type='Shape'>
+<XForm><PinX>6.1692</PinX><PinY>3.7555</PinY><Width>0.3016</Width><Height>0.1950</Height><LocPinX>0.1508</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>P1.1</Text>
+</Shape>
+<Shape ID='71' Type='Shape'>
+<XForm><PinX>6.1692</PinX><PinY>3.4055</PinY><Width>0.3016</Width><Height>0.1950</Height><LocPinX>0.1508</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>P1.2</Text>
+</Shape>
+<Shape ID='72' Type='Shape'>
+<XForm><PinX>4.9692</PinX><PinY>3.0455</PinY><Width>0.3016</Width><Height>0.1950</Height><LocPinX>0.1508</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>P1.3</Text>
+</Shape>
+<Shape ID='73' Type='Shape'>
+<XForm><PinX>5.6192</PinX><PinY>3.0455</PinY><Width>0.3016</Width><Height>0.1950</Height><LocPinX>0.1508</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>P1.4</Text>
+</Shape>
+<Shape ID='74' Type='Shape'>
+<XForm><PinX>9.3500</PinX><PinY>8.2630</PinY><Width>0.5220</Width><Height>0.2700</Height><LocPinX>0.2610</LocPinX><LocPinY>0.1350</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1800</Size><Style>1</Style><Color>#111111</Color></Char>
+<Text>8255A</Text>
+</Shape>
+<Shape ID='75' Type='Shape'>
+<XForm><PinX>9.3500</PinX><PinY>8.0320</PinY><Width>0.4800</Width><Height>0.1800</Height><LocPinX>0.2400</LocPinX><LocPinY>0.0900</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1200</Size><Style>0</Style><Color>#555555</Color></Char>
+<Text>并行接口</Text>
+</Shape>
+<Shape ID='76' Type='Shape'>
+<XForm><PinX>8.6685</PinX><PinY>7.8555</PinY><Width>0.3770</Width><Height>0.1950</Height><LocPinX>0.1885</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>D0~D7</Text>
+</Shape>
+<Shape ID='77' Type='Shape'>
+<XForm><PinX>8.6300</PinX><PinY>7.4555</PinY><Width>0.3000</Width><Height>0.1950</Height><LocPinX>0.1500</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>A0</Text>
+</Shape>
+<Shape ID='78' Type='Shape'>
+<XForm><PinX>8.6300</PinX><PinY>7.1055</PinY><Width>0.3000</Width><Height>0.1950</Height><LocPinX>0.1500</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>A1</Text>
+</Shape>
+<Shape ID='79' Type='Shape'>
+<XForm><PinX>8.6300</PinX><PinY>6.7555</PinY><Width>0.3000</Width><Height>0.1950</Height><LocPinX>0.1500</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>/CS</Text>
+</Shape>
+<Shape ID='80' Type='Shape'>
+<XForm><PinX>8.6300</PinX><PinY>6.4055</PinY><Width>0.3000</Width><Height>0.1950</Height><LocPinX>0.1500</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>/WR</Text>
+</Shape>
+<Shape ID='81' Type='Shape'>
+<XForm><PinX>8.6300</PinX><PinY>6.0555</PinY><Width>0.3000</Width><Height>0.1950</Height><LocPinX>0.1500</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>/RD</Text>
+</Shape>
+<Shape ID='82' Type='Shape'>
+<XForm><PinX>9.9561</PinX><PinY>7.5555</PinY><Width>0.5278</Width><Height>0.1950</Height><LocPinX>0.2639</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>PA0~PA7</Text>
+</Shape>
+<Shape ID='83' Type='Shape'>
+<XForm><PinX>10.0700</PinX><PinY>7.0055</PinY><Width>0.3000</Width><Height>0.1950</Height><LocPinX>0.1500</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>PC0</Text>
+</Shape>
+<Shape ID='84' Type='Shape'>
+<XForm><PinX>10.0700</PinX><PinY>6.6555</PinY><Width>0.3000</Width><Height>0.1950</Height><LocPinX>0.1500</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>PC1</Text>
+</Shape>
+<Shape ID='85' Type='Shape'>
+<XForm><PinX>9.3500</PinX><PinY>5.4055</PinY><Width>2.9874</Width><Height>0.1950</Height><LocPinX>1.4937</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>PA口=0x7C00   PC口=0x7E00   控制口=0x7F00</Text>
+</Shape>
+<Shape ID='86' Type='Shape'>
+<XForm><PinX>9.3500</PinX><PinY>5.2020</PinY><Width>2.7864</Width><Height>0.1800</Height><LocPinX>1.3932</LocPinX><LocPinY>0.0900</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1200</Size><Style>0</Style><Color>#555555</Color></Char>
+<Text>P2.7 经高位地址直接译码选通,低 8 位地址不锁存</Text>
+</Shape>
+<Shape ID='87' Type='Shape'>
+<XForm><PinX>13.1500</PinX><PinY>8.1430</PinY><Width>0.7308</Width><Height>0.2700</Height><LocPinX>0.3654</LocPinX><LocPinY>0.1350</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1800</Size><Style>1</Style><Color>#111111</Color></Char>
+<Text>LCD1602</Text>
+</Shape>
+<Shape ID='88' Type='Shape'>
+<XForm><PinX>13.1500</PinX><PinY>7.9020</PinY><Width>0.8592</Width><Height>0.1800</Height><LocPinX>0.4296</LocPinX><LocPinY>0.0900</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1200</Size><Style>0</Style><Color>#555555</Color></Char>
+<Text>字符液晶(只写)</Text>
+</Shape>
+<Shape ID='89' Type='Shape'>
+<XForm><PinX>12.2685</PinX><PinY>7.5555</PinY><Width>0.3770</Width><Height>0.1950</Height><LocPinX>0.1885</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>D0~D7</Text>
+</Shape>
+<Shape ID='90' Type='Shape'>
+<XForm><PinX>12.2300</PinX><PinY>7.0055</PinY><Width>0.3000</Width><Height>0.1950</Height><LocPinX>0.1500</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>RS</Text>
+</Shape>
+<Shape ID='91' Type='Shape'>
+<XForm><PinX>12.2300</PinX><PinY>6.6555</PinY><Width>0.3000</Width><Height>0.1950</Height><LocPinX>0.1500</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>E</Text>
+</Shape>
+<Shape ID='92' Type='Shape'>
+<XForm><PinX>12.2300</PinX><PinY>6.2055</PinY><Width>0.3000</Width><Height>0.1950</Height><LocPinX>0.1500</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>R/W</Text>
+</Shape>
+<Shape ID='93' Type='Shape'>
+<XForm><PinX>8.5500</PinX><PinY>4.5560</PinY><Width>0.5568</Width><Height>0.2400</Height><LocPinX>0.2784</LocPinX><LocPinY>0.1200</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1600</Size><Style>1</Style><Color>#111111</Color></Char>
+<Text>DS1302</Text>
+</Shape>
+<Shape ID='94' Type='Shape'>
+<XForm><PinX>8.5500</PinX><PinY>4.3420</PinY><Width>0.4800</Width><Height>0.1800</Height><LocPinX>0.2400</LocPinX><LocPinY>0.0900</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1200</Size><Style>0</Style><Color>#555555</Color></Char>
+<Text>实时时钟</Text>
+</Shape>
+<Shape ID='95' Type='Shape'>
+<XForm><PinX>7.9300</PinX><PinY>4.1055</PinY><Width>0.3000</Width><Height>0.1950</Height><LocPinX>0.1500</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>I/O</Text>
+</Shape>
+<Shape ID='96' Type='Shape'>
+<XForm><PinX>7.9308</PinX><PinY>3.7555</PinY><Width>0.3016</Width><Height>0.1950</Height><LocPinX>0.1508</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>SCLK</Text>
+</Shape>
+<Shape ID='97' Type='Shape'>
+<XForm><PinX>7.9300</PinX><PinY>3.4055</PinY><Width>0.3000</Width><Height>0.1950</Height><LocPinX>0.1500</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>CE</Text>
+</Shape>
+<Shape ID='98' Type='Shape'>
+<XForm><PinX>9.1700</PinX><PinY>4.2055</PinY><Width>0.3000</Width><Height>0.1950</Height><LocPinX>0.1500</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>X1</Text>
+</Shape>
+<Shape ID='99' Type='Shape'>
+<XForm><PinX>9.1700</PinX><PinY>3.5055</PinY><Width>0.3000</Width><Height>0.1950</Height><LocPinX>0.1500</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>X2</Text>
+</Shape>
+<Shape ID='100' Type='Shape'>
+<XForm><PinX>10.4932</PinX><PinY>3.8220</PinY><Width>0.6264</Width><Height>0.1800</Height><LocPinX>0.3132</LocPinX><LocPinY>0.0900</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1200</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>32.768kHz</Text>
+</Shape>
+<Shape ID='101' Type='Shape'>
+<XForm><PinX>11.0000</PinX><PinY>2.5760</PinY><Width>0.4640</Width><Height>0.2400</Height><LocPinX>0.2320</LocPinX><LocPinY>0.1200</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1600</Size><Style>1</Style><Color>#111111</Color></Char>
+<Text>24C02</Text>
+</Shape>
+<Shape ID='102' Type='Shape'>
+<XForm><PinX>11.0000</PinX><PinY>2.3620</PinY><Width>0.4176</Width><Height>0.1800</Height><LocPinX>0.2088</LocPinX><LocPinY>0.0900</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1200</Size><Style>0</Style><Color>#555555</Color></Char>
+<Text>E²PROM</Text>
+</Shape>
+<Shape ID='103' Type='Shape'>
+<XForm><PinX>10.3300</PinX><PinY>2.1055</PinY><Width>0.3000</Width><Height>0.1950</Height><LocPinX>0.1500</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>SCL</Text>
+</Shape>
+<Shape ID='104' Type='Shape'>
+<XForm><PinX>10.3300</PinX><PinY>1.7555</PinY><Width>0.3000</Width><Height>0.1950</Height><LocPinX>0.1500</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>SDA</Text>
+</Shape>
+<Shape ID='105' Type='Shape'>
+<XForm><PinX>11.4430</PinX><PinY>1.8555</PinY><Width>0.7540</Width><Height>0.1950</Height><LocPinX>0.3770</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>A0~A2 / WP</Text>
+</Shape>
+<Shape ID='106' Type='Shape'>
+<XForm><PinX>9.7000</PinX><PinY>2.9220</PinY><Width>0.3000</Width><Height>0.1800</Height><LocPinX>0.1500</LocPinX><LocPinY>0.0900</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1200</Size><Style>1</Style><Color>#111111</Color></Char>
+<Text>+5V</Text>
+</Shape>
+<Shape ID='107' Type='Shape'>
+<XForm><PinX>9.1600</PinX><PinY>2.4885</PinY><Width>0.4400</Width><Height>0.1650</Height><LocPinX>0.2200</LocPinX><LocPinY>0.0825</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1100</Size><Style>0</Style><Color>#555555</Color></Char>
+<Text>上拉电阻</Text>
+</Shape>
+<Shape ID='108' Type='Shape'>
+<XForm><PinX>7.2000</PinX><PinY>8.0455</PinY><Width>0.9724</Width><Height>0.1950</Height><LocPinX>0.4862</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>数据总线 D0~D7</Text>
+</Shape>
+<Shape ID='109' Type='Shape'>
+<XForm><PinX>8.3700</PinX><PinY>7.9220</PinY><Width>0.3000</Width><Height>0.1800</Height><LocPinX>0.1500</LocPinX><LocPinY>0.0900</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1200</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>8</Text>
+</Shape>
+<Shape ID='110' Type='Shape'>
+<XForm><PinX>11.0500</PinX><PinY>7.7455</PinY><Width>0.5278</Width><Height>0.1950</Height><LocPinX>0.2639</LocPinX><LocPinY>0.0975</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1300</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>PA0~PA7</Text>
+</Shape>
+<Shape ID='111' Type='Shape'>
+<XForm><PinX>11.9500</PinX><PinY>7.6220</PinY><Width>0.3000</Width><Height>0.1800</Height><LocPinX>0.1500</LocPinX><LocPinY>0.0900</LocPinY><Angle>0</Angle></XForm>
+<Fill><FillPattern>0</FillPattern></Fill>
+<Line><LinePattern>0</LinePattern></Line>
+<Char IX='0'><Size>0.1200</Size><Style>0</Style><Color>#111111</Color></Char>
+<Text>8</Text>
+</Shape>
+</Shapes>
+</Page>
+</Pages>
+</VisioDocument>
